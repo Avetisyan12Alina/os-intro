@@ -2,7 +2,7 @@
 ## Front matter
 lang: ru-RU
 title: Структура научной презентации
-subtitle: Простейший шаблон
+subtitle: Простейший шабло
 author:
   - Кулябов Д. С.
 institute:
